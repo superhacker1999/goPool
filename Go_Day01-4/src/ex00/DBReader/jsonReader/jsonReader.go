@@ -2,8 +2,8 @@ package JsonReader
 
 import (
 	"encoding/json"
-	"ex00/Converters/JsonConverter"
-	"ex00/Entity"
+	"github.com/superhacker1999/ex00/Converters/JsonConverter"
+	"github.com/superhacker1999/ex00/Entity"
 )
 
 type JsonReader struct {

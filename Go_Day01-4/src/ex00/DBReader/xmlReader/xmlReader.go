@@ -2,8 +2,8 @@ package XmlReader
 
 import (
 	"encoding/xml"
-	"ex00/Converters/XmlConverter"
-	"ex00/Entity"
+	"github.com/superhacker1999/ex00/Converters/XmlConverter"
+	"github.com/superhacker1999/ex00/Entity"
 )
 
 type XmlReader struct {

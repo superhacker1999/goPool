@@ -2,7 +2,7 @@ package JsonConverter
 
 import (
 	"errors"
-	"ex00/Entity"
+	"github.com/superhacker1999/ex00/Entity"
 )
 
 type JsonRecipe struct {

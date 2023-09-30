@@ -1,9 +1,9 @@
 package DBReader
 
 import (
-	"ex00/DBReader/jsonReader"
-	"ex00/DBReader/xmlReader"
-	"ex00/Entity"
+	"github.com/superhacker1999/ex00/DBReader/jsonReader"
+	"github.com/superhacker1999/ex00/DBReader/xmlReader"
+	"github.com/superhacker1999/ex00/Entity"
 	"io"
 	"os"
 	"strings"
