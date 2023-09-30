@@ -1,0 +1,3 @@
+package Comparator
+
+func Compare()
